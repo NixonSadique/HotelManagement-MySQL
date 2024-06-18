@@ -1,0 +1,4 @@
+Nome: Shannaya
+Quarto: 4
+Preco: 6000.0
+Obrigado por visitar o HOTEL BELO HORIZONTE, esperamos ve-lo novamente!
